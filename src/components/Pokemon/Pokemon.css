@@ -1,12 +1,13 @@
 .pokemon{
-    flex-basis: 30%;
+    /* flex-basis: 30%; */
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 4rem;
     border: 1px solid black;
     border-radius: 2rem;
     padding: 1rem;
+    margin: 4rem 1rem 1rem 1rem;
+    width: 22rem;
     background-color: bisque;
 }
 .pokemon:hover{

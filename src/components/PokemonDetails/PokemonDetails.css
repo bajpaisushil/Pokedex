@@ -27,3 +27,19 @@
     display: inline;
 }
 
+.similar_pokemons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+}
+.similar_pokemons h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.pokemon_similar_boxes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
